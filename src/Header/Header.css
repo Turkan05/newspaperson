@@ -1,0 +1,26 @@
+.header{
+background-color: #397496 ;
+width: 100%;
+height: 50px;
+}
+.marina{
+    text-align: center;
+    font-size: 50px;
+    margin-left: 50px;
+
+}
+.hotel{
+    color: lightgray; 
+    text-align: center;
+    font-size: 15px;
+    margin-left:50px;
+  margin-bottom: 20px;
+  margin-top: -33px;
+}
+hr{
+    margin-top: 50px;
+
+}
+
+
+
